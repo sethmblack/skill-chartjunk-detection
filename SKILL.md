@@ -3,8 +3,9 @@ name: chartjunk-detection
 description: Identify and evaluate decorative, non-informative, or information-obscuring elements in visualizations. Based on Edward Tufte's critique of graphics that prioritize style over substance.
 license: MIT
 metadata:
+  version: 1.0.3579
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - chartjunk-detection
 - transformation
